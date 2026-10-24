@@ -4,8 +4,10 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.IntegrationService.Activities": "[1.31.0]",
-    "UiPath.System.Activities": "[26.6.3]"
+    "ClassicActivities.BAFLayer": "[1.0.0]",
+    "UiPath.Excel.Activities": "[3.6.0-preview]",
+    "UiPath.IntegrationService.Activities": "[1.36.0]",
+    "UiPath.System.Activities": "[26.10.0]"
   },
   "webServices": [],
   "entitiesStores": [],
